@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "console-table": "^0.1.2",
+    "dotenv": "^16.4.7",
+    "inquirer": "^12.4.1",
+    "pg": "^8.13.1"
+  }
+}
